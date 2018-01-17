@@ -5,4 +5,4 @@ This is my first twitter bot
 
 This bot follows a list of french journalist to tell them how great a programer I am
 
-In order to behave like a normal user, it will wait 5sec between each user and wait 30sec every 10 users added
+I added a command that allow you to send a message to whomever you want
